@@ -36,6 +36,3 @@ Tenho experiência prática desenvolvendo projetos com **C#/.NET**, **JavaScript
 - Testes automatizados
 - Git e GitHub
 - Bancos de dados relacionais
-
-
-⭐ Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedor.
