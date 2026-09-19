@@ -1,0 +1,81 @@
+# Olá, eu sou Hubner Freitas 👋
+
+Desenvolvedor de software com foco em aplicações web, APIs e sistemas escaláveis.
+
+Tenho experiência prática desenvolvendo projetos com **C#/.NET**, **JavaScript**, **TypeScript**, arquitetura de software, autenticação e bancos de dados. Atualmente, venho aprofundando meus conhecimentos no ecossistema .NET e no desenvolvimento de aplicações modernas.
+
+## 🚀 Sobre mim
+
+- 💻 Desenvolvimento de APIs e aplicações web
+- ⚙️ Experiência com C# e .NET
+- 🌐 Desenvolvimento frontend com JavaScript e TypeScript
+- 🧱 Interesse em Clean Architecture, MVC e boas práticas
+- 🔐 Estudos em autenticação e autorização
+- 📚 Sempre aprendendo e construindo novos projetos
+
+## 🛠️ Tecnologias
+
+### Backend
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+
+### Conceitos e ferramentas
+
+- REST APIs
+- MVC
+- Clean Architecture
+- Autenticação e autorização
+- Testes automatizados
+- Git e GitHub
+- Bancos de dados relacionais
+
+## 📌 Projetos em destaque
+
+### [demoApp-BetterAuth](https://github.com/hubnerFreitas/demoApp-BetterAuth)
+
+Aplicação experimental voltada ao estudo de autenticação e autorização em aplicações modernas.
+
+### [projetoKanban](https://github.com/hubnerFreitas/projetoKanban)
+
+Projeto de estudo desenvolvido com TypeScript, simulando uma aplicação de gerenciamento de tarefas no estilo Kanban.
+
+### [ProjetoMVCCompleto](https://github.com/hubnerFreitas/ProjetoMVCCompleto)
+
+Aplicação desenvolvida com C# e ASP.NET MVC, explorando a estruturação de sistemas web completos.
+
+### [BookStoreApp](https://github.com/hubnerFreitas/BookStoreApp)
+
+Aplicação de gerenciamento de livros utilizando .NET API e Blazor.
+
+### [CashFlow](https://github.com/hubnerFreitas/CashFlow)
+
+Projeto de estudo para controle financeiro, desenvolvido com C# e .NET.
+
+### [GymManagement](https://github.com/hubnerFreitas/GymManagement)
+
+API desenvolvida com foco em Clean Architecture e organização de responsabilidades.
+
+## 📈 Atualmente estudando
+
+- Arquitetura de software
+- Desenvolvimento de APIs robustas
+- Boas práticas em .NET
+- Testes automatizados
+- Segurança e autenticação
+- Aplicações frontend com TypeScript
+
+## 📫 Contato
+
+- GitHub: [github.com/hubnerFreitas](https://github.com/hubnerFreitas)
+
+---
+
+⭐ Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedor.
